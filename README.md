@@ -7,6 +7,7 @@ Rest APIs for currency conversion
 
 
 ## Architecture Diagram
+![Untitled Diagram](https://user-images.githubusercontent.com/78495666/213932114-c2b332cf-29a6-4756-91cf-826c6e4712b0.jpg)
 
 
-![image](https://user-images.githubusercontent.com/78495666/213932056-08ca5481-0f3e-42bd-8036-251c69611928.png)
+
