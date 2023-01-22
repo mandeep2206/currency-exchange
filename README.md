@@ -2,6 +2,10 @@
 Rest APIs for currency conversion 
 ## How to run
 1. Clone project 
+```
+git clone https://github.com/mandeep2206/currency-exchange.git
+```
+
 2. run using 
 ```
 mvn spring-boot:run
